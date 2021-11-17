@@ -5,14 +5,14 @@ Happy Hacking :)
 
 # Specifications
 *Operating System* <br />
-MacOS: [Download Beatstars DQ](https://able.sfo2.digitaloceanspaces.com/BeatstarsDQ.app.zip "Download Here") <br />
+MacOS: [Download Beatstars DQ App](https://able.sfo2.digitaloceanspaces.com/BeatstarsDQ.app.zip "Download Here") <br />
 Linux: Coming Soon <br />
 Windows: Coming Soon <br />
 
 *Language* <br />
 Python 3 (libraries used listed below)
   - requests
-  - pydotenvs
+  - pydotenvs (my personal library)
   - PySimpleGUI
   - getpass
   - os
@@ -24,13 +24,10 @@ Built with Py2App
 
 1. Copy the Beatstars Track URL from the address bar:
 ![Alt text](https://able.sfo2.digitaloceanspaces.com/beatstars_address_line.png "Beatstars Track URL")
-
 2. Open Beatstars Download Queue application:
 ![Alt text](https://able.sfo2.digitaloceanspaces.com/beatstars_dq_screenshot.png "Beatstars DQ App")
-
 3. Paste Track URL and enter the track name (optional):
 ![Alt text](https://able.sfo2.digitaloceanspaces.com/beatstars_dq_info.png "Beatstars DQ App Details")
-
 4. Download your track!
 
 # Note
