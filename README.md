@@ -5,7 +5,7 @@ Happy Hacking :)
 
 # Specifications
 *Operating System* <br />
-MacOS: [Download Beatstars DQ App](https://able.sfo2.digitaloceanspaces.com/BeatstarsDQ.app.zip "Download Here") <br />
+MacOS: License costs $8 USD - [Email Me](mailto:xkopemusic@gmail.com "Email Me") <br />
 Linux: Coming Soon <br />
 Windows: Coming Soon <br />
 
