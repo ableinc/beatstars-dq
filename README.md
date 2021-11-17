@@ -4,15 +4,20 @@ This application will allow you to download ANY (free or paid) Beatstars track w
 Happy Hacking :)
 
 # Specifications
-###Operating System####
-MacOS: [Download Beatstars DQ](https://able.sfo2.digitaloceanspaces.com/BeatstarsDQ.app.zip "Download Here") 
-Linux: Coming Soon
-Windows: Coming Soon
+*Operating System* <br />
+MacOS: [Download Beatstars DQ](https://able.sfo2.digitaloceanspaces.com/BeatstarsDQ.app.zip "Download Here") <br />
+Linux: Coming Soon <br />
+Windows: Coming Soon <br />
 
-###Language###
-Python 3
+*Language* <br />
+Python 3 (libraries used listed below)
+  - requests
+  - pydotenvs
+  - PySimpleGUI
+  - getpass
+  - os
 
-###Build Information###
+*Build Information* <br />
 Built with Py2App
 
 # How to Use:
