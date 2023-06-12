@@ -13,7 +13,7 @@ Or you can download directly from our CDN
 
 **CDN Direct Download**
 
-MacOS (Apple Silicon): [Download Hackstars App](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_0.2.0.app.zip "Download Here") - v0.2.0<br />
+MacOS (Apple Silicon): [Download Hackstars App](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_0.2.0_apple_silicon.app.zip "Download Here") - v0.2.0<br />
 MacOS (Intel): [Download Hackstars App](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_v0.2.0_apple_intel.app.zip "Download Here") - v0.2.0<br />
 Linux: [Download Hackstars](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_0.2.0_linux.zip "Download Here") - v0.2.0 <br />
 Windows: [Download Hackstars 64-bit](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_v0.2.0_x86_64.zip "Download Here") - v0.2.0 <br />
