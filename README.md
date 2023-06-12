@@ -15,8 +15,8 @@ Or you can download directly from our CDN
 
 MacOS (Apple Silicon): [Download Hackstars App](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_0.2.0.app.zip "Download Here") - v0.2.0<br />
 MacOS (Intel): [Download Hackstars App](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_v0.2.0_apple_intel.app.zip "Download Here") - v0.2.0<br />
-Linux: [Download Hackstars](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_0.2.0_linux.zip "Download Here") -v0.2.0 <br />
-Windows: Coming Soon <br />
+Linux: [Download Hackstars](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_0.2.0_linux.zip "Download Here") -v 0.2.0 <br />
+Windows: [Download Hackstars 64-bit](https://able.sfo2.cdn.digitaloceanspaces.com/Hackstars_v0.2.0_x86_64.zip "Download Here") - v0.2.0 <br />
 
 ## About Software
 
@@ -32,10 +32,10 @@ Py2App and PyInstaller
 
 ## Install
 
-1. Extract contents from .zip files downloaded
+1. Extract contents from .zip file
   - MacOS Users: Put the ```Hackstars.app``` in your ```/Applications``` directory
   - Linux Users: Add Hackstars to your ```PATH``` for faster execution
-  - Windows Users: TBA
+  - Windows Users: Add ```Hackstars.exe``` to your Desktop
 2. If asked, give Hackstars root/admin privileges.
   - Why? - Hackstars will be installing ```.mp3``` files and license data locally on your machine. We do not send any user information to the cloud.
  
