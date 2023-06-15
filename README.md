@@ -41,6 +41,15 @@ Py2App and PyInstaller
  
 ## License Cost
 
+**UPDATE**
+
+A lot of people have been emailing me about the license fee. Many are reluctant to pay the required $8. So, I have a bargain:
+
+If you follow me on Twitter and send me a Direct Message (or email), then I'll send you a free license code so you can use the software.
+Follow me on [Twitter](https://twitter.com/kopeiam "Follow me on Twitter") to get a free license code.
+
+**Support Instead**
+
 Development takes time. Please purchase a license to use this tool :). A license costs $8 per machine.<br />
 [Email Me For A License](mailto:xkopemusic@gmail.com "Email Me")
 
@@ -54,7 +63,10 @@ Development takes time. Please purchase a license to use this tool :). A license
 ![Alt text](https://able.sfo2.digitaloceanspaces.com/beatstars_dq_info.png "Beatstars DQ App Details")
 4. Download your track!
 
-Downloaded 
+**Video Demo**
+
+Watch video demo on Twitter: [Demo](https://twitter.com/kopeiam/status/1585416985105645571?s=20 "Video Demo")
+
 ## Troubleshooting
 
 1. App crashes
