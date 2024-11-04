@@ -3,6 +3,10 @@ This application will allow you to download ANY (free or paid) Beatstars track w
 
 Happy Hacking :)
 
+## Update - November 4th, 2024
+
+Hackstars is now available as a web app, free of charge. You can use it here: https://favify.app
+
 ## Download
 
 **Releases**
